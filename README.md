@@ -2,6 +2,9 @@
 
 An old project from 2023. A simple Tkinter + Matplotlib desktop app that renders a randomized star field with optional overlays for constellations, Messier objects, the celestial equator, and the ecliptic. 
 
+
+![Demo](assets/demo.png)
+
 ## Quick start
 
 1. Install dependencies:
